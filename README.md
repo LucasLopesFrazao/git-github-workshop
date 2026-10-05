@@ -21,7 +21,7 @@ Antes de iniciar a oficina, certifique-se de que você possui:
 * [Git](https://git-scm.com/downloads) instalado.
 * Uma conta no [GitHub](https://github.com/).
 * Acesso ao repositório da oficina.
-* Um editor de código de sua preferência.
+* Um editor de código de sua preferência (VS Code recomendado)
 * Um Personal Access Token (PAT) para autenticação via HTTPS.
 
 ### 1. Verificar a instalação do Git
