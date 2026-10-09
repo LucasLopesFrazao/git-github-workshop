@@ -1,6 +1,6 @@
-# Participante Lucas Frazão
+# Participante Lucas Lopes Frazão
 
-## Quem eu sou
+## Quem sou eu
 
 Desenvolvedor Pleno na Autoinsp a 3 anos, atualmente trabalhu no motor de análise e plataforma de clientes.
 
